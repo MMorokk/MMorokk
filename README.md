@@ -40,7 +40,7 @@ Tools       Git · Ollama · AnyDesk · RDP · VNC
 ## 📜 Certifications
 
 - CS50x — Harvard University
-- DET English Certification (C1)
+- DET English Certification (B2)
 
 ---
 
